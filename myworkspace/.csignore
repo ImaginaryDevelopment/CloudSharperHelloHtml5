@@ -1,0 +1,7 @@
+# This is the list of all files that should be ignored when uploading this workspace to the cloud with "sync up".
+# You can use glob patterns (eg. "Debug/*.dll").
+# Patterns that don't start with "/" are matched anywhere within the path.
+
+/packages/
+bin/
+obj/
